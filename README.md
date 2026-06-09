@@ -1,2 +1,0 @@
-# Foodholic
-udemy-course-app
